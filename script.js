@@ -286,7 +286,7 @@ function crearVentanaCMD() {
     }
 
     // Inicializar terminal
-    terminal.innerHTML = 'MaterOs [Versión 1.0.0000]\n(C) Copyright 2026 NotMaters\nEscribe ´´help´´ para ver los comandos disponibles\n\n';
+    terminal.innerHTML = 'MaterOS [Versión 1.0.1000]\n(C) Copyright 2026 NotMaters\nEscribe ´´help´´ para ver los comandos disponibles\n\n';
     input.focus();
 
     cmdWindow = { close: () => ventana.remove() };

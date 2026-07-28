@@ -1018,3 +1018,12 @@ body {
     border-top: 1px solid #0f0;
     padding-top: 5px;
 }
+
+#start-button img {
+    width: 30px !important;
+    height: auto;
+}
+
+#start-button {
+    gap: 1px !important;   /* reduce el espacio entre el logo y el texto */
+}
